@@ -188,6 +188,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Hearts of Iron IV · Updated 2026-11-23 · Shared under the MIT License*
+*Hearts of Iron IV · Updated 2026-11-24 · Shared under the MIT License*
 
-<!-- updated 2026-11-23 -->
+<!-- updated 2026-11-24 -->
